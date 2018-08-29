@@ -1,0 +1,21 @@
+.card-draggable{
+    background-color: white;
+    vertical-align: top;
+    padding: 10px;
+    margin: 10px;
+    width: auto;
+    word-wrap: break-word;
+    white-space: normal;
+    word-break: keep-all;
+    -webkit-hyphens: auto;
+    hyphens: manual;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+}
+
+.card-header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: right;
+    font-weight:bold;
+    font-style:italic;
+}

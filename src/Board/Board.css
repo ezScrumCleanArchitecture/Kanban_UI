@@ -1,0 +1,17 @@
+.header{
+    display:inline-block;
+    margin:0;
+    padding:0;
+    background-color: #E0E0E0;
+    width:100%;
+}
+
+.container-drag{
+    text-align: center;
+}
+
+.container-stages{
+    width: max-content;
+}
+
+

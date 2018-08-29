@@ -1,0 +1,34 @@
+.stage-header{
+    background-color: yellow;
+    vertical-align: top;
+    padding: 10px;
+    width: auto;
+    word-wrap: break-word;
+    white-space: normal;
+    word-break: keep-all;
+    -webkit-hyphens: auto;
+    hyphens: manual;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+}
+
+.droppable{
+    float: left;
+    width:150px;
+    height:100vh;
+    left:0;
+    top :10;
+    background-color:#9E9E9E;
+    border-left:1px dotted;
+    margin: 1em;
+}
+
+.draggable{
+    width:100px;
+    height:50px;
+    background-color:yellow;
+    margin-left: 100px;
+    line-height:5em;
+}
+
+
